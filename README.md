@@ -2,6 +2,8 @@
 
 LEET Multiplayer Integrated Demo.  
 
+Full How-to coming soon!
+
 Objective:
 
 Build a game in Unreal Engine 4 which uses (most of) the LEET API.
